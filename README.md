@@ -1,6 +1,6 @@
-# 🏦 Banking Management System
+# 🏦 Banking Management Analytics System
 
-A full-stack banking simulation project with **database design**, **SQL analytics**, and **interactive Power BI dashboards** for business intelligence.
+A full-stack banking simulation project with **database design**, **SQL analytics**, and **interactive Power BI dashboards** for business intelligence.A complete end-to-end Bank Management Analytics System built using PostgreSQL as the backend database and Power BI for interactive dashboards. The project delivers insights across customers, accounts, loans, cards, transactions, and branch performance.
 
 ## 📊 Project Overview
 
